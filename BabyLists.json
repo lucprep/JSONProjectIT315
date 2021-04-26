@@ -1,19 +1,19 @@
 {
   "BabyLists":
   [
-    {"BabyName": "Noah", "BabyMeaning":"A Hebrew name meaning rest and comfort", "BabyOrigin":"Hebrew", "BabyVariants":"Nuh, Noe", "BabyPeople":"Noah Wyle, Noah Centineo",
+    {"BabyName":"Noah", "BabyMeaning":"A Hebrew name meaning rest and comfort", "BabyOrigin":"Hebrew", "BabyVariants":"Nuh, Noe", "BabyPeople":"Noah Wyle, Noah Centineo",
       "BabyImage":"https://raw.githubusercontent.com/lucprep/JSONProjectIT315/main/hebrew.jpg", "BabyFacts":"https://kids.nationalgeographic.com/geography/countries/article/israel"},
-    {"BabyName": "Jackson", "BabyMeaning": "Originally a last name meaning son of Jack", "BabyOrigin":"Hebrew",  "BabyVariants":"Jaxon, Jack", "BabyPeople": "President Andrew Jackson, Michael Jackson",
+    {"BabyName":"Jackson", "BabyMeaning": "Originally a last name meaning son of Jack", "BabyOrigin":"Hebrew",  "BabyVariants":"Jaxon, Jack", "BabyPeople": "President Andrew Jackson, Michael Jackson",
       "BabyImage":"https://raw.githubusercontent.com/lucprep/JSONProjectIT315/main/hebrew.jpg", "BabyFacts": "https://kids.nationalgeographic.com/geography/countries/article/israel"},
-    {"BabyName": "Carter", "BabyMeaning": "Traditionally a last name used by a cart driver", "BabyOrigin": "English",  "BabyVariants": "Karter, Carson", "BabyPeople": "Jimmy Carter, Doctor Carter",
+    {"BabyName":"Carter", "BabyMeaning": "Traditionally a last name used by a cart driver", "BabyOrigin": "English",  "BabyVariants": "Karter, Carson", "BabyPeople": "Jimmy Carter, Doctor Carter",
       "BabyImage":"https://raw.githubusercontent.com/lucprep/JSONProjectIT315/main/english.jpg", "BabyFacts":"https://www.kids-world-travel-guide.com/north-america-facts.html"},
     {"BabyName": "Diego", "BabyMeaning": "Diego is a Spanish name meaning Saint James and Teacher", "BabyOrigin": "Spanish", "BabyVariants": "Santiago, Dago", "BabyPeople": "Diego Luna, Diego Rivera",
       "BabyImage":"https://raw.githubusercontent.com/lucprep/JSONProjectIT315/main/Spain.jpg", "BabyFacts":"https://www.kids-world-travel-guide.com/spain-facts.html"},
-   {"BabyName": "Sophia", "BabyMeaning": "Means 'wisdom' in Greek. The name was used by European royalty in the middle ages.", "BabyOrigin": "Greek", "BabyVariants": "Sophie, Sofia", "BabyPeople": "Sophia Loren, Sophia Vergara",
+   {"BabyName":"Sophia", "BabyMeaning": "Means 'wisdom' in Greek. The name was used by European royalty in the middle ages.", "BabyOrigin": "Greek", "BabyVariants": "Sophie, Sofia", "BabyPeople": "Sophia Loren, Sophia Vergara",
       "BabyImage":"https://raw.githubusercontent.com/lucprep/JSONProjectIT315/main/greece.jpg", "BabyFacts":"https://www.kids-world-travel-guide.com/greece-facts.html"},
-   {"BabyName": "Emma", "BabyMeaning": "It is derived from the Old German word for 'Whole' or 'Universal' and was popular since the 19th century.", "BabyOrigin": "German","BabyVariants": "Ema, Emily", "BabyPeople": "Emma Watson, Emma Stone",
+   {"BabyName":"Emma", "BabyMeaning": "It is derived from the Old German word for 'Whole' or 'Universal' and was popular since the 19th century.", "BabyOrigin": "German","BabyVariants": "Ema, Emily", "BabyPeople": "Emma Watson, Emma Stone",
       "BabyImage":"https://raw.githubusercontent.com/lucprep/JSONProjectIT315/main/German.jpg", "BabyFacts":"https://www.kids-world-travel-guide.com/germany-facts.html"},
-  {"BabyName": "Amelia", "BabyMeaning": "A blend of medieval names Emilia and Amalia.In Latin  Amelia means 'industrious' and 'Striving'. Its Teutonic meaning is 'defender' ", "BabyOrigin": "Latin", "BabyVariants": "Amy, Milly", "BabyPeople": "Amelia Earhart, Amelia Van Buren",
+  {"BabyName":"Amelia", "BabyMeaning": "A blend of medieval names Emilia and Amalia.In Latin  Amelia means 'industrious' and 'Striving'. Its Teutonic meaning is 'defender' ", "BabyOrigin": "Latin", "BabyVariants": "Amy, Milly", "BabyPeople": "Amelia Earhart, Amelia Van Buren",
       "BabyImage":"https://raw.githubusercontent.com/lucprep/JSONProjectIT315/main/southAmerica.jpg", "BabyFacts":"https://www.kids-world-travel-guide.com/south-america-facts.html"}
   ]
 
